@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8c3cccc-d61d-4382-8eb5-506bf11b9b3a" name="Changes" comment="Add frontend directory" />
+    <list default="true" id="c8c3cccc-d61d-4382-8eb5-506bf11b9b3a" name="Changes" comment="Hidding .idea files">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "devstrukov"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/devstrukov/WeatherStations.git",
@@ -74,11 +83,20 @@
       <option name="project" value="LOCAL" />
       <updated>1757856015318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hidding .idea files">
+      <option name="closed" value="true" />
+      <created>1757856072024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757856072024</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add frontend directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add frontend directory" />
+    <MESSAGE value="Hidding .idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hidding .idea files" />
   </component>
 </project>
